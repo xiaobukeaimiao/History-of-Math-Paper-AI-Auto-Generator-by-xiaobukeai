@@ -1,0 +1,9 @@
+{
+    "api_settings": {
+        "api_key": "在这里填入你的API key",
+        "base_url": "https://api.deepseek.com",
+        "model": "deepseek-v4-pro", 
+        "debug_mode": false
+    },
+    "global_prompt": "你是一位严谨的代数拓扑学者，正在完成一份50页的LaTeX数学史论文。"
+}
